@@ -285,7 +285,6 @@ margin: 0;
     box-sizing: border-box;
 }
 
-
 .main-part__wrapper{
     max-width: 1024px;
     width: 100%;
@@ -492,7 +491,6 @@ margin: 0;
     gap: 7px;
     padding: 8px;
     align-items: center;
-
 }
 
 .advatages__photo{
@@ -535,7 +533,6 @@ margin: 0;
 
 .main-part-news-body__link-text_white{
     color: rgb(167, 167, 167);
-
 }
 
 .main-part-bottom-left__item-link_white{
@@ -627,7 +624,6 @@ margin: 0;
     margin: 0;
     padding: 0;
     color: #606060;
-
 }
 .copyright{
     display: flex;
